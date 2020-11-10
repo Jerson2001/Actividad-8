@@ -1,0 +1,21 @@
+body{
+    background-color: khaki;
+}
+
+#cargando {
+    display: none;
+}
+
+.row{
+    color: black;
+    margin: 0px 5xp;
+    justify-content: center;
+    display: inline-block;
+}
+
+.col-md-4{
+    border-radius: 8px;
+    margin: 0px 5px;
+    justify-content: center;
+    display: inline-block;
+}
